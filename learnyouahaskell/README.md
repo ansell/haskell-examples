@@ -19,3 +19,7 @@ returns the following for me:
 ```
 The Glorious Glasgow Haskell Compilation System, version 7.10.3
 ```
+
+## Loading into ghci
+
+When loading a file into ghci you need to use ``:l``, not ``:1`` as the font in the book can be interpreted.
